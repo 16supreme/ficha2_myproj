@@ -1,4 +1,10 @@
-Este é o terceiro exemplo de um ficheiro de texto...
+<h1>Listas de coisas</h1>
 
-ALterações efetuadas.
+<h2>Comidas</h2>
+
+<ul>
+   <li>Bolos</li>
+   <li>Tostas</li>
+   <li>Sandes</li>
+</ul> 
 
