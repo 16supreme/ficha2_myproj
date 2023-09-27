@@ -1,4 +1,9 @@
-Este é o terceiro exemplo de um ficheiro de texto...
+Este é o exemplo de um ficheiro	de texto file3
 
-ALterações efetuadas.
+<h2>Bebidas</h2>
 
+<ul>
+   <li>Coffee</li>
+   <li>Tea</li>
+   <li>Milk</li>
+</ul>
